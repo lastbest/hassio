@@ -1,8 +1,8 @@
 {
-  "name": "Shairport Sync",
+  "name": "Shairport Syncdd",
   "version": "0.0.3",
-  "slug": "shairport_sync",
-  "description": "Shairport Sync for Hass.io",
+  "slug": "shairport_syncdd",
+  "description": "dddShairport Sync for Hass.io",
   "url": "https://github.com/lastbest/addon-shairport-sync",
   "startup": "application",
   "arch": [
