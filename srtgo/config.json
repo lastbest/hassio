@@ -1,0 +1,12 @@
+{
+  "name": "SRTgo",
+  "version": "1.0",
+  "slug": "srtgo",
+  "description": "SRTgo CLI for Home Assistant",
+  "url": "https://github.com/lastbest/srtgo-hass",
+  "arch": ["amd64", "armv7", "armhf", "aarch64"],
+  "startup": "services",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
